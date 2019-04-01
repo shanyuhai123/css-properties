@@ -26,8 +26,7 @@ export default {
 <style lang="stylus" scoped>
 .layout
   width 100%
-  height 100%
-  min-height 468px
+  height 468px
   margin 0!important
   box-sizing border-box
   overflow hidden
