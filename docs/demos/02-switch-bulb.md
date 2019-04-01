@@ -1,0 +1,4 @@
+---
+navbar: false
+---
+<Switch-bulb/>
