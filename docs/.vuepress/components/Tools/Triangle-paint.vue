@@ -119,6 +119,7 @@ $rectangle-size = 0
 $border-size = 60px
 
 .triangle-rendering
+  flex auto 
   width 100%
   height 100%
   display flex

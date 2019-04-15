@@ -52,6 +52,7 @@ export default {
 $square-size = 120px;
 
 .triangle-direction {
+  flex: auto;
   box-sizing: border-box;
   width: 100%;
   height: 100%;
