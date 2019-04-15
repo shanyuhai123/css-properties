@@ -210,7 +210,7 @@ export default {
   justify-content: space-around;
 
   .width-input {
-    width: 30%;
+    width: 22%;
   }
 }
 </style>
